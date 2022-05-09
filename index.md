@@ -2,11 +2,9 @@
 
 This site is to document the projects done as a part of kerala iot challenge.Kerala IoT Challenge is a program designed in 4 levels followed by a hackathon to identify and train quality industry leaders in the IoT domain, while any novice learner can start with layer 1 and others can enter laterally to the desired layer after an evaluation.
 
-
 ## About Me
 
 Iam **SANU MUHAMMED C** Btech Computer Science And Engineering Student At **Cochin University Of Science And Technology**. I love to learn tehnology and try new things. Iam a web developer, connect with me through [Linkedin](https://www.linkedin.com/in/sanumuhammedc/)
-
 
 ## Level 1
 
