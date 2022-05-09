@@ -16,6 +16,7 @@ This site is to document the projects and experiments done as a part of kerala i
 # About Me
 
 Iam **SANU MUHAMMED C** Btech Computer Science And Engineering Student At **Cochin University Of Science And Technology**, Ernakulam, Kerala, India. I love to learn tehnology and try new things. I also love to code and play video games. Iam passionate about computer science. Iam a web developer currently working as a freelancer and part time developer. Iam always ready to work on cool projects and contribute to open source. Feel free to contact me for collaboration or any kind of stuffs related to computer science. connect with me through [Linkedin](https://www.linkedin.com/in/sanumuhammedc/)
+{: .fs-6 .fw-300 }
 
 # Experiments
 
