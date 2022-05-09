@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Preface
 
-You can use the [editor on GitHub](https://github.com/sanumuhammedc/Kerala-IoT-Challenge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This site is to document the projects done as a part of kerala iot challenge.Kerala IoT Challenge is a program designed in 4 levels followed by a hackathon to identify and train quality industry leaders in the IoT domain, while any novice learner can start with layer 1 and others can enter laterally to the desired layer after an evaluation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Iam **SANU MUHAMMED C** Btech Computer Science And Engineering Student At **Cochin University Of Science And Technology**. I love to learn tehnology and try new things. Iam a web developer, connect with me through [Linkedin](https://www.linkedin.com/in/sanumuhammedc/)
+
+
+## Level 1
+
+Level 1 consists of basic electronics, sensors, arduino programming and a live project
 
 ```markdown
 Syntax highlighted code block
