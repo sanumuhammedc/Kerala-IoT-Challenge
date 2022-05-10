@@ -7,7 +7,7 @@ permalink: /experiments
 ---
 
 
-# Experiments
+# **Experiments**
 
 This section contains the experiments done for learning 
 {: .fs-6 .fw-300 }
