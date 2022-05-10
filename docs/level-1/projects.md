@@ -14,20 +14,34 @@ This section contains the projects done after doing experiments of kerala iot ch
 {: .fs-6 .fw-300 }
 
 
-```markdown
-Syntax highlighted code block
+## 1) Create an automatic night lamp model using LDR and LED
 
-# Header 1
-## Header 2
-### Header 3
+### Code
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+```
+```
 
-**Bold** and _Italic_ and `Code` text
+## 2) Create a Thermometer using 6 LEDs and 1 LM35 Temperature Sensor
 
-[Link](url) and ![Image](src)
+### Code
+
+
+```
+```
+
+## 3) Create a Digital Dice using 6 LEDs and 1 Push Button
+
+### Code
+
+
+```
+```
+
+## 4) Create a Digital Dice using 7 Segment Display and Push Button
+
+### Code
+
+
+```
 ```
