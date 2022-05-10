@@ -7,7 +7,7 @@ permalink: /projects
 ---
 
 
-# Projects
+# **Projects**
 
 This section contains the projects done after doing experiments
 {: .fs-6 .fw-300 }
