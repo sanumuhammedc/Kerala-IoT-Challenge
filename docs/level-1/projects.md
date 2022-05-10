@@ -3,7 +3,6 @@ layout: default
 title: Projects
 parent: Level 1
 description: "projects done as a part of kerala iot challenge"
-has_children: true
 permalink: /projects
 nav_order: 2
 ---

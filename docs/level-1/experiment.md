@@ -3,7 +3,6 @@ layout: default
 title: Experiments
 parent: Level 1
 description: "experiments done as a part of kerala iot challenge"
-has_children: true
 permalink: /experiments
 nav_order: 1
 ---
