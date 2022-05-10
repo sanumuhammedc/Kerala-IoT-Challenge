@@ -3,7 +3,7 @@ layout: default
 title: Experiments
 parent: Level 1
 description: "experiments done as a part of kerala iot challenge"
-permalink: /experiments
+permalink: level1/experiments
 nav_order: 1
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: Projects
 parent: Level 1
 description: "projects done as a part of kerala iot challenge"
-permalink: /projects
+permalink: level1/projects
 nav_order: 2
 ---
 
