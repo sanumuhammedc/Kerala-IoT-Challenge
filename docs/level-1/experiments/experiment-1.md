@@ -2,6 +2,7 @@
 layout: default
 title: Experiment 1
 parent: Experiments
+permalink: /exp1
 nav_order: 1
 ---
 

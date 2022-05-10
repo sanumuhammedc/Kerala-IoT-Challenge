@@ -3,7 +3,9 @@ layout: default
 title: Project 1
 parent: Projects
 nav_order: 1
+permalink: /proj1
 ---
+
 
 
 # **Projects**
