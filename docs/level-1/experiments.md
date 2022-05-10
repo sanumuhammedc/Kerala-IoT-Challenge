@@ -13,7 +13,7 @@ nav_order: 1
 This section contains the experiments done as part of kerala iot challenge level 1
 {: .fs-6 .fw-300 }
 
-**## Experiment 1 : Hello World Led Blinking**
+## **Experiment 1 : Hello World Led Blinking**
 
 ### Components Required
 
@@ -26,6 +26,7 @@ This section contains the experiments done as part of kerala iot challenge level
 
 ### Circuit diagram
 
+![circuit diagram](https://mulearn.acadle.com/storage/s3///DIR_03102/lessons/5h7X9_3102_1627394356 "Circuit Diagram")
 ![Image](https://mulearn.acadle.com/storage/s3///DIR_03102/lessons/5h7X9_3102_1627394356)
 
 ### Code
