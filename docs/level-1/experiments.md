@@ -26,8 +26,7 @@ This section contains the experiments done as part of kerala iot challenge level
 
 ### Circuit diagram
 
-![circuit diagram](https://mulearn.acadle.com/storage/s3///DIR_03102/lessons/5h7X9_3102_1627394356 "Circuit Diagram")
-![Image](https://mulearn.acadle.com/storage/s3///DIR_03102/lessons/5h7X9_3102_1627394356)
+![circuit diagram](../../images/exp1.png "Circuit Diagram")
 
 ### Code
 
