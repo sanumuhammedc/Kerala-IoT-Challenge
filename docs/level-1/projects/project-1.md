@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Projects
-nav_order: 3
-description: "experiments done as a part of kerala iot challenge"
-permalink: /projects
+title: Project 1
+parent: Projects
+nav_order: 1
 ---
 
 
