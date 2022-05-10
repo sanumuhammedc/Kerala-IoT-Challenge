@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Experiments
+title: Projects
 nav_order: 3
 description: "experiments done as a part of kerala iot challenge"
 permalink: /projects
