@@ -12,7 +12,7 @@ permalink: /projects
 This section contains the projects done after doing experiments
 {: .fs-6 .fw-300 }
 
-## Level 1
+# Level 1
 
 Level 1 consists of basic electronics, sensors, arduino programming and a live project
 {: .fs-6 .fw-300 }
