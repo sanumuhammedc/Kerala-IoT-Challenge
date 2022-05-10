@@ -10,7 +10,7 @@ nav_order: 2
 
 # **Projects**
 
-This section contains the projects done after doing experiments as part of kerala iot challenge level 1
+This section contains the projects done after doing experiments of kerala iot challenge level 1
 {: .fs-6 .fw-300 }
 
 

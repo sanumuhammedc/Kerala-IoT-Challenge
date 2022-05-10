@@ -10,7 +10,7 @@ nav_order: 1
 
 # **Experiments**
 
-This section contains the experiments done for learning as part of kerala iot challenge level 2
+This section contains the experiments done as part of kerala iot challenge level 2
 {: .fs-6 .fw-300 }
 
 To be updated...
