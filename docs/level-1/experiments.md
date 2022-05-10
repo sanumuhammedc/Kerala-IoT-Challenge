@@ -26,7 +26,7 @@ This section contains the experiments done as part of kerala iot challenge level
 
 ### Circuit diagram
 
-![circuit diagram](../../images/exp1.png "Circuit Diagram")
+![circuit diagram](../../images/exp1.png)
 
 ### Code
 
@@ -65,7 +65,7 @@ delay(1000); // wait for a second
 
 ### Circuit Diagram
 
-![circuit diagram](../../images/exp2.png "Circuit Diagram")
+![circuit diagram](../../images/exp2.png)
 
 ### Code
 
@@ -115,7 +115,7 @@ digitalWrite(redled, LOW);// turn off red LED
 
 ### Circuit diagram
 
-![circuit diagram](../../images/exp3.png "Circuit Diagram")
+![circuit diagram](../../images/exp3.png)
 
 ### Code 
 
@@ -161,7 +161,7 @@ void loop()
 
 ### Circuit Diagram
 
-![circuit diagram](../../images/exp4.png "Circuit Diagram")
+![circuit diagram](../../images/exp4.png)
 
 ### Code
 
@@ -198,7 +198,7 @@ else
 
 ### Circuit Diagram
 
-![circuit diagram](../../images/exp5.png "Circuit Diagram")
+![circuit diagram](../../images/exp5.png)
 
 ### Code
 
@@ -229,7 +229,7 @@ digitalWrite(buzzer, HIGH); // produce sound
 
 ### Circuit Diagram
 
-![circuit diagram](../../images/exp6.png "Circuit Diagram")
+![circuit diagram](../../images/exp6.png)
 
 ### Code
 
@@ -281,7 +281,7 @@ for(val=0; val<255; val++)
 
 ### Circuit Diagram
 
-![circuit diagram](../../images/exp7.png "Circuit Diagram")
+![circuit diagram](../../images/exp7.png)
 
 ### Code
 
@@ -318,7 +318,7 @@ delay(10);// wait for 0.01
 
 ### Circuit Diagram
 
-![circuit diagram](../../images/exp8.png "Circuit Diagram")
+![circuit diagram](../../images/exp8.png)
 
 ### Code
 
@@ -361,7 +361,7 @@ void loop()
 
 ### Circuit Diagram
 
-![circuit diagram](../../images/exp9.png "Circuit Diagram")
+![circuit diagram](../../images/exp9.png)
 
 ### Code
 
@@ -400,7 +400,7 @@ delay(500);// wait for 0.5 second
 
 ### Circuit Diagram
 
-![circuit diagram](../../images/exp10.png "Circuit Diagram")
+![circuit diagram](../../images/exp10.png)
 
 ### Code
 
@@ -553,7 +553,7 @@ irrecv.resume(); // Receive the next value
 
 ### Circuit Diagram
 
-![circuit diagram](../../images/exp11.png "Circuit Diagram")
+![circuit diagram](../../images/exp11.png)
 
 ### Code
 
@@ -592,7 +592,7 @@ Serial.println(val);// display val’s value
 
 ### Circuit Diagram
 
-![circuit diagram](../../images/exp12.png "Circuit Diagram")
+![circuit diagram](../../images/exp12.png)
 
 ### Code
 
