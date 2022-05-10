@@ -1,18 +1,17 @@
 ---
 layout: default
-title: Projects
+title: Experiments
 parent: Level 1
-description: "projects done as a part of kerala iot challenge"
-permalink: level1/projects
-nav_order: 2
+description: "experiments done as a part of kerala iot challenge"
+permalink: level1/experiments
+nav_order: 1
 ---
 
 
-# **Projects**
+# **Experiments**
 
-This section contains the projects done after doing experiments as part of kerala iot challenge level 1
+This section contains the experiments done for learning as part of kerala iot challenge level 1
 {: .fs-6 .fw-300 }
-
 
 ```markdown
 Syntax highlighted code block

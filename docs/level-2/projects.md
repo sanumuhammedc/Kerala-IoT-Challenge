@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Projects
-parent: Level 1
+parent: Level 2
 description: "projects done as a part of kerala iot challenge"
-permalink: level1/projects
+permalink: level2/projects
 nav_order: 2
 ---
 
@@ -14,7 +14,8 @@ This section contains the projects done after doing experiments as part of keral
 {: .fs-6 .fw-300 }
 
 
-```markdown
+To be updated...
+<!-- ```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -30,4 +31,4 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+``` -->

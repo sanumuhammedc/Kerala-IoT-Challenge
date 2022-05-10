@@ -1,24 +1,20 @@
 ---
 layout: default
 title: Experiments
-parent: Level 1
+parent: Level 2
 description: "experiments done as a part of kerala iot challenge"
-permalink: level1/experiments
+permalink: level2/experiments
 nav_order: 1
 ---
 
 
 # **Experiments**
 
-This section contains the experiments done for learning 
+This section contains the experiments done for learning as part of kerala iot challenge level 2
 {: .fs-6 .fw-300 }
 
-# Level 1
-
-Level 1 consists of basic electronics, sensors, arduino programming and a live project
-{: .fs-6 .fw-300 }
-
-```markdown
+To be updated...
+<!-- ```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -34,4 +30,4 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+``` -->
