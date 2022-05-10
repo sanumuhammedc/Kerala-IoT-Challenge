@@ -10,12 +10,12 @@ permalink: /experiments
 # Experiments
 
 This section contains the experiments done for learning 
-{: .btn .fs-5 .mb-4 .mb-md-0 }
+{: .fs-6 .fw-300 }
 
 # Level 1
 
 Level 1 consists of basic electronics, sensors, arduino programming and a live project
-{: .btn .fs-5 .mb-4 .mb-md-0 }
+{: .fs-6 .fw-300 }
 
 ```markdown
 Syntax highlighted code block
