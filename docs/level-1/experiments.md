@@ -47,7 +47,7 @@ delay(1000); // wait for a second
 
 ### Result
 
-<video style="width: 100%;height: auto;" width="400" controls>
+<video style="width: 100%;height: auto;" width="400" controls >
   <source src="../../images/1.mp4" type="video/mp4">
 </video>
 
