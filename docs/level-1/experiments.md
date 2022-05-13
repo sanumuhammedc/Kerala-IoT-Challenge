@@ -47,7 +47,7 @@ delay(1000); // wait for a second
 
 ### Result
 
-![Result](../../images/1.mp4)
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652478517/video_to_markdown/images/video--bd192ae4879fc2350786df2cda014878-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/1.mp4 "")
 
 ## **Experiment 2 : Traffic Light**
 
@@ -101,6 +101,7 @@ digitalWrite(redled, LOW);// turn off red LED
 
 ### Result
 
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652478646/video_to_markdown/images/video--32e93f4fbbbb9be33c5fbde0c7c9bcf3-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/2.mp4 "")
 
 ## **Experiment 3 : Led Chasing effect**
 
@@ -146,6 +147,8 @@ void loop()
 
 ### Result
 
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652478703/video_to_markdown/images/video--72a5907cd844224056166207023f1143-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/3.mp4 "")
+
 ## **Experiment 4 : Button Controlled Led**
 
 ### Components Required
@@ -186,6 +189,8 @@ else
 
 ### Result
 
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652478745/video_to_markdown/images/video--f573ad473bce8f74fb67cedc5100a46e-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/4.mp4 "")
+
 ## **Experiment 5 : Buzzer**
 
 ### Components Required
@@ -216,6 +221,8 @@ digitalWrite(buzzer, HIGH); // produce sound
 ```
 
 ### Result
+
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652478776/video_to_markdown/images/video--6b16c984a1ca4afc4d97103868c7c505-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/5.mp4 "")
 
 ## **Experiment 6 : RGB Led**
 
@@ -266,6 +273,8 @@ for(val=0; val<255; val++)
 
 ### Result
 
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652479007/video_to_markdown/images/video--3902747fe24b321d11e7391ae3b14dde-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/6.mp4 "")
+
 ## **Experiment 7 : LDR Light Sensor**
 
 ### Components Required
@@ -309,6 +318,8 @@ void loop()
 ```
 
 ### Result
+
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652479031/video_to_markdown/images/video--3306ad5ebcf67c3443f88bce7f0829b6-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/7.mp4 "")
 
 ## **Experiment 8 : Flame Sensor**
 
@@ -354,6 +365,8 @@ void loop()
 
 ### Result
 
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652479103/video_to_markdown/images/video--2016ca8d2fa72ea54b198e204ae3f64c-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/8.mp4 "")
+
 ## **Experiment 9 : LM35 Temperature Sensor**
 
 ### Components Required
@@ -390,6 +403,8 @@ delay(500);// wait for 0.5 second
 ```
 
 ### Result
+
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652479136/video_to_markdown/images/video--f9fba8ebfbe116fe9736900a4e9c85a5-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/9.mp4 "")
 
 ## **Experiment 10 : IR Remote Control Using TSOP**
 
@@ -542,6 +557,8 @@ irrecv.resume(); // Receive the next value
 
 ### Result
 
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652479156/video_to_markdown/images/video--00e6e00031661deda7fa227bc71b7eb1-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/10.mp4 "")
+
 ## **Experiment 11 : Potentiometer analog Value Reading**
 
 ### Components Required
@@ -583,6 +600,8 @@ Serial.println(val);// display val’s value
 ```
 
 ### Result
+
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652479177/video_to_markdown/images/video--6c60e5daea7344b013577b51772c5be1-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/11.mp4 "")
 
 ## **Experiment 12 : 7 Segment Display**
 
@@ -745,3 +764,5 @@ delay(1000); // wait for 1s
 ```
 
 ### Result
+
+![circuit diagram](../../images/12.png)
