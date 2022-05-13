@@ -43,7 +43,7 @@ void loop()
 ```
 ### Result
 
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652479031/video_to_markdown/images/video--3306ad5ebcf67c3443f88bce7f0829b6-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/7.mp4 "")
+<video style="width: 80%;height: auto;" controls src="../../images/7.mp4" type="video/mp4">
 
 ## Create a Digital Dice using 6 LEDs and 1 Push Button
 
@@ -78,7 +78,7 @@ void loop()
 
 ### Result
 
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652479478/video_to_markdown/images/video--1a14f3eff9ec04e13796b8ee3cf274cc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/p1.mp4 "")
+<video style="width: 80%;height: auto;" controls src="../../images/p1.mp4" type="video/mp4">
 
 ## Create a Digital Dice using 7 Segment Display and Push Button
 
@@ -196,4 +196,4 @@ void loop()
 
 ### Result
 
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652479516/video_to_markdown/images/video--b73c01ee8840505f4a715ae328f15111-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/p2.mp4 "")
+<video style="width: 80%;height: auto;" controls src="../../images/p2.mp4" type="video/mp4">
