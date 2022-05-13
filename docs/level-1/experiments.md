@@ -47,7 +47,9 @@ delay(1000); // wait for a second
 
 ### Result
 
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1652478517/video_to_markdown/images/video--bd192ae4879fc2350786df2cda014878-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://sanumuhammedc.github.io/image/1.mp4 "")
+<video style="width: 100%;height: auto;" width="400" controls>
+  <source src="../../images/1.mp4" type="video/mp4">
+</video>
 
 ## **Experiment 2 : Traffic Light**
 
