@@ -47,7 +47,7 @@ delay(1000); // wait for a second
 
 ### Result
 
-
+![Result](../../images/1.mp4)
 
 ## **Experiment 2 : Traffic Light**
 
@@ -271,7 +271,7 @@ for(val=0; val<255; val++)
 ### Components Required
 
 - Arduino Uno Board
-- Photo Resistor*1
+- Photo Resistor*1 or LDR Module(Iam using LDR Module)
 - Red M5 LED*1
 - 10KΩ Resistor*1
 - 220Ω Resistor*1
@@ -286,20 +286,25 @@ for(val=0; val<255; val++)
 ### Code
 
 ```
-int potpin=0;// initialize analog pin 0, connected with photovaristor
-int ledpin=11;// initialize digital pin 11, 
-int val=0;// initialize variable val
+int potpin=7;
+int ledpin=11;
 void setup()
 {
-pinMode(ledpin,OUTPUT);// set digital pin 11 as “output”
-Serial.begin(9600);// set baud rate at “9600”
+  pinMode(ledpin,OUTPUT);// set digital pin 11 as “output”
+  pinMode(potpin,INPUT);// set pin 7 as input
 }
 void loop()
 {
-val=analogRead(potpin);// read the value of the sensor and assign it to val
-Serial.println(val);// display the value of val
-analogWrite(ledpin,val/4);// set up brightness（maximum value 255）
-delay(10);// wait for 0.01 
+  if(digitalRead(potpin) == 1)
+  {
+    digitalWrite(ledpin,HIGH);
+  }
+  else
+  {
+    digitalWrite(ledpin,LOW);
+  }
+  Serial.println(digitalRead(potpin));
+  delay(10);// wait for 0.01 
 }
 ```
 
@@ -325,7 +330,7 @@ delay(10);// wait for 0.01
 ```
 int flame=0;// select analog pin 0 for the sensor
 int Beep=9;// select digital pin 9 for the buzzer
-int val=0;// initialize variable
+int val=A0;// initialize variable
  void setup() 
 {
   pinMode(Beep,OUTPUT);// set LED pin as “output”
@@ -336,7 +341,7 @@ void loop()
 { 
   val=analogRead(flame);// read the analog value of the sensor 
   Serial.println(val);// output and display the analog value
-  if(val>=600)// when the analog value is larger than 600, the buzzer will buzz
+  if(val>=1)// when the analog value is larger than 600, the buzzer will buzz
   {  
    digitalWrite(Beep,HIGH); 
    }else 
@@ -413,18 +418,18 @@ int LED3 = 4;
 int LED4 = 5;
 int LED5 = 6;
 int LED6 = 7;
-long on1  = 0x00FF6897;
-long off1 = 0x00FF9867;
-long on2 = 0x00FFB04F;
-long off2 = 0x00FF30CF;
-long on3 = 0x00FF18E7;
-long off3 = 0x00FF7A85;
-long on4 = 0x00FF10EF;
-long off4 = 0x00FF38C7;
-long on5 = 0x00FF5AA5;
-long off5 = 0x00FF42BD;
-long on6 = 0x00FF4AB5;
-long off6 = 0x00FF52AD;
+long on1  = 0x40BF7A85;
+long off1 = 0x40BFA05F;
+long on2 = 0x40BFBA45;
+long off2 = 0x40BF5AA5;
+long on3 = 0x40BF7887;
+long off3 = 0x40BF9A65;
+long on4 = 0x40BF52AD;
+long off4 = 0x40BF58A7;
+long on5 = 0x40BF926D;
+long off5 = 0x40BFB24D;
+long on6 = 0x40BF50AF;
+long off6 = 0x40BF629D;
 IRrecv irrecv(RECV_PIN);
 decode_results results;
 // Dumps out the decode_results structure.
@@ -466,7 +471,7 @@ void dump(decode_results *results) {
      Serial.print("): ");
  for (int i = 0; i < count; i++) 
      {
-      if ((i % 2) == 1) {
+      if ((i%2) == 1) {
       Serial.print(results->rawbuf[i]*USECPERTICK, DEC);
      } 
     else  
@@ -500,9 +505,9 @@ void loop()
     // IR received, toggle the relay
     if (millis() - last > 250) 
       {
-       on = !on;
+       on =!on;
 //       digitalWrite(8, on ? HIGH : LOW);
-       digitalWrite(13, on ? HIGH : LOW);
+       digitalWrite(13, on ? HIGH:LOW);
        dump(&results);
       }
     if (results.value == on1 )
