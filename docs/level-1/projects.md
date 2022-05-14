@@ -43,7 +43,8 @@ void loop()
 ```
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/7.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/9nMSeni_bOg" target="__blank" >View video of Result</a>
+
 
 ## Create a Digital Dice using 6 LEDs and 1 Push Button
 
@@ -78,7 +79,7 @@ void loop()
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/p1.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/9j5IdT0Oug8" target="__blank" >View video of Result</a>
 
 ## Create a Digital Dice using 7 Segment Display and Push Button
 
@@ -196,4 +197,4 @@ void loop()
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/p2.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/Hbkg5ccz6JY" target="__blank" >View video of Result</a>

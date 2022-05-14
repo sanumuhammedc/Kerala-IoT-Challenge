@@ -47,7 +47,7 @@ delay(1000); // wait for a second
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/1.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/R-UdT4j3jIo" target="__blank" >View video of Result</a>
 
 ## **Experiment 2 : Traffic Light**
 
@@ -101,7 +101,7 @@ digitalWrite(redled, LOW);// turn off red LED
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/2.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/_Pdv6C-6l-0" target="__blank" >View video of Result</a>
 
 ## **Experiment 3 : Led Chasing effect**
 
@@ -147,7 +147,7 @@ void loop()
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/3.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/1qBPqKji2PU" target="__blank" >View video of Result</a>
 
 ## **Experiment 4 : Button Controlled Led**
 
@@ -189,7 +189,8 @@ else
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/4.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/57EHzPsuxh4" target="__blank" >View video of Result</a>
+
 ## **Experiment 5 : Buzzer**
 
 ### Components Required
@@ -221,7 +222,7 @@ digitalWrite(buzzer, HIGH); // produce sound
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/5.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/uRBJG3MW1yE" target="__blank" >View video of Result</a>
 
 ## **Experiment 6 : RGB Led**
 
@@ -272,7 +273,7 @@ for(val=0; val<255; val++)
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/6.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/6rslwnvuu0M" target="__blank" >View video of Result</a>
 
 ## **Experiment 7 : LDR Light Sensor**
 
@@ -318,7 +319,7 @@ void loop()
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/7.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/9nMSeni_bOg" target="__blank" >View video of Result</a>
 
 ## **Experiment 8 : Flame Sensor**
 
@@ -364,7 +365,7 @@ void loop()
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/8.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/N0ZPvrIt3LY" target="__blank" >View video of Result</a>
 
 ## **Experiment 9 : LM35 Temperature Sensor**
 
@@ -403,7 +404,7 @@ delay(500);// wait for 0.5 second
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/9.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/FSUaPIeCajo" target="__blank" >View video of Result</a>
 
 ## **Experiment 10 : IR Remote Control Using TSOP**
 
@@ -556,7 +557,7 @@ irrecv.resume(); // Receive the next value
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/10.mp4" type="video/mp4">
+<a href="https://www.youtube.com/watch?v=QeF5vKhCoyc" target="__blank" >View video of Result</a>
 
 ## **Experiment 11 : Potentiometer analog Value Reading**
 
@@ -600,7 +601,7 @@ Serial.println(val);// display val’s value
 
 ### Result
 
-<video style="width: 80%;height: auto;" controls src="../../images/11.mp4" type="video/mp4">
+<a href="https://www.youtube.com/shorts/Kgd1MVjgpkM" target="__blank" >View video of Result</a>
 
 ## **Experiment 12 : 7 Segment Display**
 
