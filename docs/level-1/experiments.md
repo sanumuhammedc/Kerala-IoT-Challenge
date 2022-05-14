@@ -101,7 +101,7 @@ digitalWrite(redled, LOW);// turn off red LED
 
 ### Result
 
-<a href="https://www.youtube.com/shorts/_Pdv6C-6l-0" target="__blank" >View video of Result</a>
+<a href="https://www.youtube.com/shorts/1qBPqKji2PU" target="__blank" >View video of Result</a>
 
 ## **Experiment 3 : Led Chasing effect**
 
@@ -147,7 +147,7 @@ void loop()
 
 ### Result
 
-<a href="https://www.youtube.com/shorts/1qBPqKji2PU" target="__blank" >View video of Result</a>
+<a href="https://www.youtube.com/shorts/_Pdv6C-6l-0" target="__blank" >View video of Result</a>
 
 ## **Experiment 4 : Button Controlled Led**
 
@@ -765,4 +765,4 @@ delay(1000); // wait for 1s
 
 ### Result
 
-![circuit diagram](../../images/12.png)
+![circuit diagram](../../images/p3.png)
