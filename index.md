@@ -11,7 +11,7 @@ permalink: /
 This site is to document the projects and experiments done as a part of kerala iot challenge.Kerala IoT Challenge is a program designed in 4 levels followed by a hackathon to identify and train quality industry leaders in the IoT domain, while any novice learner can start with layer 1 and others can enter laterally to the desired layer after an evaluation.
 {: .fs-6 .fw-300 }
 
-[Level 1](/Kerala-IoT-Challenge/level-1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Level 2](/Kerala-IoT-Challenge/level-2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/sanumuhammedc/Kerala-IoT-Challenge/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Level 1](/Kerala-IoT-Challenge/level-1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Level 2](/Kerala-IoT-Challenge/level-2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Level 3](/Kerala-IoT-Challenge/level-3){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Level 4](/Kerala-IoT-Challenge/level-4){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/sanumuhammedc/Kerala-IoT-Challenge/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 # About Me
 
