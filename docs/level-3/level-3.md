@@ -8,6 +8,8 @@ permalink: /level-3
 
 # **Level 3**
 
+# **IoT intermediate**
+
 This section contains the experiments and projects done as a part of kerala iot challenge level 3
 {: .fs-6 .fw-300 }
 
