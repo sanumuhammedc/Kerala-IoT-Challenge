@@ -13,5 +13,5 @@ permalink: /level-4
 This section contains the experiments and projects done as a part of kerala iot challenge level 4
 {: .fs-6 .fw-300 }
 
-**Level 2 consists of ioT product design and fabrication, cloud and IoT** 
+**Level 4 consists of ioT product design and fabrication, cloud and IoT** 
 {: .fs-6 .fw-300 }
