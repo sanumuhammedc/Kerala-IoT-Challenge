@@ -8,6 +8,8 @@ permalink: /level-1
 
 # **Level 1**
 
+# **Basic electronics & arduino**
+
 This section contains the experiments and projects done as a part of kerala iot challenge level 1
 {: .fs-6 .fw-300 }
 

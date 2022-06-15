@@ -8,6 +8,8 @@ permalink: /level-2
 
 # **Level 2**
 
+# **Introduction to IoT**
+
 This section contains the experiments and projects done as a part of kerala iot challenge level 2
 {: .fs-6 .fw-300 }
 
